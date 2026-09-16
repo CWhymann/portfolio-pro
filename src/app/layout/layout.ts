@@ -1,9 +1,20 @@
-import { Component } from '@angular/core';
+import { Component, signal } from '@angular/core';
+import { RouterLink, RouterOutlet } from '@angular/router';
 
 @Component({
-  imports: [],
   selector: 'app-layout',
-  styleUrl: './layout.scss',
+  imports: [RouterLink, RouterOutlet],
   templateUrl: './layout.html',
+  styleUrl: './layout.scss',
 })
-export class Layout {}
+export class Layout {
+  readonly menuOpen = signal(false);
+
+  toggleMenu(): void {
+    this.menuOpen.update((open) => !open);
+  }
+
+  closeMenu(): void {
+    this.menuOpen.set(false);
+  }
+}

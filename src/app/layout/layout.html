@@ -1,1 +1,28 @@
-<p>layout works!</p>
+<header class="header">
+  <a class="header__logo" routerLink="/" (click)="closeMenu()"> CHRISTIAN WIEMANN </a>
+
+  <button
+    class="header__menu-toggle"
+    type="button"
+    aria-label="Toggle navigation"
+    [attr.aria-expanded]="menuOpen()"
+    (click)="toggleMenu()"
+  >
+    <span></span>
+    <span></span>
+  </button>
+
+  <nav class="header__nav" [class.header__nav--open]="menuOpen()" aria-label="Main navigation">
+    <a routerLink="/" fragment="profile" (click)="closeMenu()">Profile</a>
+    <a routerLink="/" fragment="capabilities" (click)="closeMenu()">Capabilities</a>
+    <a routerLink="/" fragment="work" (click)="closeMenu()">Work</a>
+    <a routerLink="/" fragment="system" (click)="closeMenu()">System</a>
+    <a routerLink="/" fragment="journey" (click)="closeMenu()">Journey</a>
+    <a routerLink="/" fragment="about" (click)="closeMenu()">About</a>
+    <a routerLink="/" fragment="contact" (click)="closeMenu()">Contact</a>
+  </nav>
+</header>
+
+<main>
+  <router-outlet />
+</main>
