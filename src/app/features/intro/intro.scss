@@ -3,12 +3,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  padding: var(--page-padding);
   box-sizing: border-box;
+  padding-block: var(--page-padding);
 
   &__content {
     max-width: 75rem;
-    padding-top: clamp(4rem, 12vh, 10rem);
+    padding-top: clamp(3rem, 10vh, 8rem);
   }
 
   &__label {
@@ -61,11 +61,26 @@
   &__flow {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
     gap: 0.5rem 0.75rem;
     padding-top: 3rem;
     font-family: var(--font-mono);
     font-size: 1rem;
     letter-spacing: 0.06em;
     color: var(--color-muted);
+  }
+
+  @media (max-width: 767px) {
+    .intro {
+      &__flow {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.4rem;
+      }
+
+      &__flow span:nth-child(even) {
+        align-self: flex-start;
+      }
+    }
   }
 }

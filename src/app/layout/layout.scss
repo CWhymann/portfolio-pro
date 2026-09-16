@@ -1,23 +1,30 @@
 .header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
   width: 100%;
-  padding: var(--page-padding);
-  box-sizing: border-box;
-  position: relative;
+  border-bottom: 1px solid var(--color-line);
+
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 5rem;
+    position: relative;
+  }
 
   &__logo {
+    flex-shrink: 0;
     color: var(--color-text);
     font-family: var(--font-display);
     font-size: var(--text-logo);
     font-weight: 600;
     letter-spacing: 0.02em;
+    line-height: 1;
     text-decoration: none;
+    white-space: nowrap;
   }
 
   &__menu-toggle {
     display: flex;
+    flex-shrink: 0;
     flex-direction: column;
     justify-content: center;
     gap: 0.35rem;
@@ -71,6 +78,10 @@
 
 @media (min-width: 768px) {
   .header {
+    .container {
+      min-height: 5rem;
+    }
+
     &__menu-toggle {
       display: none;
     }
@@ -79,7 +90,9 @@
       display: flex;
       flex-direction: row;
       align-items: center;
-      gap: 2rem;
+      justify-content: flex-end;
+      gap: clamp(1rem, 2vw, 2rem);
+      margin-left: auto;
     }
   }
 }
