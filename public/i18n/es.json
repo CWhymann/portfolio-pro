@@ -43,6 +43,47 @@
     }
   },
 
+  "journey": {
+    "label": "05 / TRAYECTORIA",
+    "title": "Del diseño visual a la ingeniería full-stack.",
+    "m1": {
+      "year": "2018–2021",
+      "title": "Diseñador Gráfico, Digital y Print",
+      "org": "WBS Training AG · IBB AG",
+      "text": "Diseñador gráfico certificado (IHK): gráficos, maquetación y proyectos de medios digitales/impresos con Adobe Creative Cloud — la base del pensamiento visual y de UX."
+    },
+    "m2": {
+      "year": "2021",
+      "title": "Formador Certificado (AEVO, IHK)",
+      "org": "IBB AG",
+      "text": "Cualificación como formador certificado, impartiendo clases a aprendices en plataformas de aprendizaje virtual y aulas digitales."
+    },
+    "m3": {
+      "year": "2021–2022",
+      "title": "Administración y Soporte TI",
+      "org": "Kreisverwaltung Borken",
+      "text": "Atención ciudadana y comunicación de crisis en una línea de atención de la administración pública, además de gestión de datos censales sensibles bajo estrictos requisitos del RGPD."
+    },
+    "m4": {
+      "year": "2023–2024",
+      "title": "Diseñador Instruccional y Docente",
+      "org": "IU Internationale Hochschule",
+      "text": "Planificación e impartición de módulos de e-learning de alta frecuencia, con reducción didáctica de contenidos técnicos para el LMS Moodle."
+    },
+    "m5": {
+      "year": "2024–2026",
+      "title": "Coach de Integración y Formador",
+      "org": "GEBA mbH, Borken",
+      "text": "Diseño e impartición de formación técnica para competencias digitales, en estrecha colaboración con administraciones públicas bajo estrictos estándares de documentación."
+    },
+    "m6": {
+      "year": "Desde 03/2026",
+      "title": "Desarrollador de Software (Web y Backend)",
+      "org": "DA Akademie",
+      "text": "Profundización en arquitecturas web y backend modernas — Node.js, JavaScript, SQL, REST APIs, Git — desarrollando proyectos de software ágiles desde cero."
+    }
+  },
+
   "capabilities": {
     "label": "02 / CAPACIDADES",
     "title": "Creando experiencias digitales de frontend a backend.",

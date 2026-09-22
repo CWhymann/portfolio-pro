@@ -41,6 +41,48 @@
       "text": "Lehren, Coaching, Stakeholder-Kommunikation und klare Dokumentation."
     }
   },
+
+  "journey": {
+    "label": "05 / WERDEGANG",
+    "title": "Vom visuellen Design zur Full-Stack-Entwicklung.",
+    "m1": {
+      "year": "2018–2021",
+      "title": "Mediengestalter Digital & Print",
+      "org": "WBS Training AG · IBB AG",
+      "text": "Ausbildung zum Mediengestalter (IHK): Grafiken, Layouts und digitale/Print-Medienprojekte mit Adobe Creative Cloud — das Fundament für visuelles und UX-Denken."
+    },
+    "m2": {
+      "year": "2021",
+      "title": "Ausbilder mit AEVO (IHK)",
+      "org": "IBB AG",
+      "text": "Ausbildereignungsprüfung, Unterricht von Auszubildenden auf virtuellen Lernplattformen und in digitalen Klassenräumen."
+    },
+    "m3": {
+      "year": "2021–2022",
+      "title": "Verwaltung & IT-Support",
+      "org": "Kreisverwaltung Borken",
+      "text": "Bürgerbetreuung und Krisenkommunikation an der zentralen Corona-Hotline sowie Verarbeitung hochsensibler Zensus-Daten unter strikter DSGVO-Einhaltung."
+    },
+    "m4": {
+      "year": "2023–2024",
+      "title": "Instructional Designer & Dozent",
+      "org": "IU Internationale Hochschule",
+      "text": "Planung und digitale Durchführung hochfrequentierter E-Learning-Module, didaktische Reduktion technischer Inhalte für Moodle LMS."
+    },
+    "m5": {
+      "year": "2024–2026",
+      "title": "Integrationscoach & Dozent",
+      "org": "GEBA mbH, Borken",
+      "text": "Konzeption und Durchführung technischer Schulungen zur digitalen Kompetenzförderung, enge Kooperation mit Behörden unter strengen Dokumentationsvorgaben."
+    },
+    "m6": {
+      "year": "Seit 03/2026",
+      "title": "Softwareentwickler (Web & Backend)",
+      "org": "DA Akademie",
+      "text": "Vertiefung moderner Web- und Backend-Architekturen — Node.js, JavaScript, SQL, REST APIs, Git — Umsetzung agiler Software-Projekte von Grund auf."
+    }
+  },
+
   "capabilities": {
     "label": "02 / FÄHIGKEITEN",
     "title": "Digitale Erlebnisse von Frontend bis Backend.",

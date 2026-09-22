@@ -44,6 +44,47 @@
     }
   },
 
+  "journey": {
+    "label": "05 / TRAJECT",
+    "title": "Van visueel design naar full-stack engineering.",
+    "m1": {
+      "year": "2018–2021",
+      "title": "Mediavormgever, Digitaal & Print",
+      "org": "WBS Training AG · IBB AG",
+      "text": "Opgeleid mediavormgever (IHK): grafisch werk, layouts en digitale/print mediaprojecten met Adobe Creative Cloud — de basis voor visueel en UX-denken."
+    },
+    "m2": {
+      "year": "2021",
+      "title": "Gecertificeerd Trainer (AEVO, IHK)",
+      "org": "IBB AG",
+      "text": "Gekwalificeerd als gecertificeerd trainer, lesgeven aan leerlingen op virtuele leerplatforms en in digitale klaslokalen."
+    },
+    "m3": {
+      "year": "2021–2022",
+      "title": "Administratie & IT-ondersteuning",
+      "org": "Kreisverwaltung Borken",
+      "text": "Burgerondersteuning en crisiscommunicatie op een hotline van de overheid, plus verwerking van gevoelige census-data onder strikte AVG-vereisten."
+    },
+    "m4": {
+      "year": "2023–2024",
+      "title": "Instructional Designer & Docent",
+      "org": "IU Internationale Hochschule",
+      "text": "Plannen en uitvoeren van veelgebruikte e-learningmodules, met didactische vereenvoudiging van technische inhoud voor het Moodle LMS."
+    },
+    "m5": {
+      "year": "2024–2026",
+      "title": "Integratiecoach & Trainer",
+      "org": "GEBA mbH, Borken",
+      "text": "Ontwerpen en geven van technische trainingen voor digitale vaardigheden, in nauwe samenwerking met overheidsinstanties onder strenge documentatie-eisen."
+    },
+    "m6": {
+      "year": "Sinds 03/2026",
+      "title": "Softwareontwikkelaar (Web & Backend)",
+      "org": "DA Akademie",
+      "text": "Verdieping in moderne web- en backend-architectuur — Node.js, JavaScript, SQL, REST API's, Git — het bouwen van agile softwareprojecten vanaf de basis."
+    }
+  },
+
   "capabilities": {
     "label": "02 / VAARDIGHEDEN",
     "title": "Digitale ervaringen van frontend tot backend.",

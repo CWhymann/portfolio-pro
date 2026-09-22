@@ -44,6 +44,47 @@
     }
   },
 
+  "journey": {
+    "label": "05 / PERCORSO",
+    "title": "Dal design visivo all'ingegneria full-stack.",
+    "m1": {
+      "year": "2018–2021",
+      "title": "Grafico Pubblicitario, Digitale e Stampa",
+      "org": "WBS Training AG · IBB AG",
+      "text": "Grafico pubblicitario certificato (IHK): grafica, layout e progetti di media digitali/stampa con Adobe Creative Cloud — la base del pensiero visivo e UX."
+    },
+    "m2": {
+      "year": "2021",
+      "title": "Formatore Certificato (AEVO, IHK)",
+      "org": "IBB AG",
+      "text": "Qualifica come formatore certificato, insegnamento ad apprendisti su piattaforme di apprendimento virtuale e in aule digitali."
+    },
+    "m3": {
+      "year": "2021–2022",
+      "title": "Amministrazione e Supporto IT",
+      "org": "Kreisverwaltung Borken",
+      "text": "Assistenza ai cittadini e comunicazione di crisi su una hotline della pubblica amministrazione, oltre alla gestione di dati censuari sensibili nel rispetto rigoroso del GDPR."
+    },
+    "m4": {
+      "year": "2023–2024",
+      "title": "Instructional Designer e Docente",
+      "org": "IU Internationale Hochschule",
+      "text": "Pianificazione ed erogazione di moduli e-learning ad alta frequenza, con riduzione didattica di contenuti tecnici per l'LMS Moodle."
+    },
+    "m5": {
+      "year": "2024–2026",
+      "title": "Integration Coach e Formatore",
+      "org": "GEBA mbH, Borken",
+      "text": "Progettazione ed erogazione di formazione tecnica per le competenze digitali, in stretta collaborazione con le pubbliche amministrazioni secondo rigorosi standard di documentazione."
+    },
+    "m6": {
+      "year": "Dal 03/2026",
+      "title": "Sviluppatore Software (Web e Backend)",
+      "org": "DA Akademie",
+      "text": "Approfondimento di architetture web e backend moderne — Node.js, JavaScript, SQL, REST API, Git — sviluppo di progetti software agili da zero."
+    }
+  },
+
   "capabilities": {
     "label": "02 / COMPETENZE",
     "title": "Esperienze digitali dal frontend al backend.",

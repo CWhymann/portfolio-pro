@@ -44,6 +44,47 @@
     }
   },
 
+  "journey": {
+    "label": "05 / JOURNEY",
+    "title": "From visual design to full-stack engineering.",
+    "m1": {
+      "year": "2018–2021",
+      "title": "Media Designer, Digital & Print",
+      "org": "WBS Training AG · IBB AG",
+      "text": "Trained media designer (IHK): graphics, layouts and digital/print media projects with Adobe Creative Cloud — the foundation for visual and UX thinking."
+    },
+    "m2": {
+      "year": "2021",
+      "title": "Certified Trainer (AEVO, IHK)",
+      "org": "IBB AG",
+      "text": "Qualified as a certified trainer, teaching apprentices on virtual learning platforms and in digital classrooms."
+    },
+    "m3": {
+      "year": "2021–2022",
+      "title": "Administration & IT Support",
+      "org": "Kreisverwaltung Borken",
+      "text": "Citizen support and crisis communication on a public administration hotline, plus handling sensitive census data under strict GDPR requirements."
+    },
+    "m4": {
+      "year": "2023–2024",
+      "title": "Instructional Designer & Lecturer",
+      "org": "IU Internationale Hochschule",
+      "text": "Planning and delivering high-frequency e-learning modules, with didactic reduction of technical content for the Moodle LMS."
+    },
+    "m5": {
+      "year": "2024–2026",
+      "title": "Integration Coach & Trainer",
+      "org": "GEBA mbH, Borken",
+      "text": "Designing and running technical training for digital skills, working closely with public authorities under strict documentation standards."
+    },
+    "m6": {
+      "year": "Since 03/2026",
+      "title": "Software Developer (Web & Backend)",
+      "org": "DA Akademie",
+      "text": "Deepening modern web and backend architecture — Node.js, JavaScript, SQL, REST APIs, Git — building agile software projects from the ground up."
+    }
+  },
+
   "capabilities": {
     "label": "02 / CAPABILITIES",
     "title": "Building digital experiences from frontend to backend.",
