@@ -8,39 +8,41 @@
     "about": "Sobre mí",
     "contact": "Contacto"
   },
+
   "intro": {
     "label": "HYBRID ENGINEER",
-    "title": "Christian Wiemann",
-    "claim": "Especialista en UI/UX y Full-Stack · Consultor ágil de TI — desarrollo productos digitales de principio a fin, desde los requisitos hasta el lanzamiento.",
-    "action": "Ver mi perfil",
+    "title": "Software × Interfaz × Sistemas",
+    "claim": "Transformo requisitos complejos<br />en experiencias digitales claras.",
+    "action": "EXPLORAR",
     "flow": {
-      "user": "Usuario",
-      "interface": "Interfaz",
-      "logic": "Lógica",
-      "data": "Datos",
-      "system": "Sistema"
+      "user": "USUARIO",
+      "interface": "INTERFAZ",
+      "logic": "LÓGICA",
+      "data": "DATOS",
+      "system": "SISTEMA"
     }
   },
   "profile": {
     "label": "01 / PERFIL",
-    "title": "Donde el código limpio se encuentra con la comunicación clara.",
+    "title": "Ingeniería con una perspectiva humana.",
     "engineering": {
-      "title": "Ingeniería",
-      "text": "Desarrollo web y backend moderno con Angular, TypeScript, Node.js, SQL y REST APIs — arquitectura clara en lugar de soluciones rápidas."
+      "title": "ENGINEERING",
+      "text": "Frontend, backend, APIs, estructuras de datos y código limpio y mantenible."
     },
     "experience": {
-      "title": "Experiencia",
-      "text": "Años de práctica en formación de adultos, coaching y capacitación técnica, que se traducen en una entrega estructurada y fiable."
+      "title": "EXPERIENCE",
+      "text": "UI, UX, interacción y estructura visual centradas en la claridad y la usabilidad."
     },
     "product": {
-      "title": "Producto y Diseño",
-      "text": "Diseñador gráfico certificado (IHK): diseño UI/UX, concepción visual y maquetación para impresión y digital."
+      "title": "PRODUCT",
+      "text": "Requisitos, estructura, resolución de problemas y flujos de trabajo ágiles pragmáticos."
     },
     "communication": {
-      "title": "Comunicación",
-      "text": "Comunicación con stakeholders, ingeniería de requisitos y moderación ágil según la Guía Scrum 2020."
+      "title": "COMMUNICATION",
+      "text": "Enseñanza, coaching, comunicación con stakeholders y documentación clara."
     }
   },
+
   "capabilities": {
     "label": "02 / CAPACIDADES",
     "title": "Creando experiencias digitales de frontend a backend.",
@@ -61,6 +63,7 @@
       "text": "UI, UX, Adobe, comunicación visual, storytelling y diseño instruccional."
     }
   },
+
   "work": {
     "label": "03 / PROYECTOS",
     "title": "Proyectos seleccionados, desarrollados de principio a fin.",
@@ -83,6 +86,7 @@
     "githubLabel": "Ver en GitHub",
     "previewLabel": "Vista previa"
   },
+
   "system": {
     "label": "04 / SISTEMA",
     "title": "Un proceso estructurado, no conjeturas.",

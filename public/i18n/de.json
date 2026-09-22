@@ -10,35 +10,35 @@
   },
   "intro": {
     "label": "HYBRID ENGINEER",
-    "title": "Christian Wiemann",
-    "claim": "UI/UX- &amp; Full-Stack-Spezialist · Agiler IT-Berater — digitale Produkte durchgängig umgesetzt, von der Anforderung bis zum Release.",
-    "action": "Zum Profil",
+    "title": "Software × Interface × Systeme",
+    "claim": "Ich verwandle komplexe Anforderungen<br />in klare digitale Erlebnisse.",
+    "action": "ENTDECKEN",
     "flow": {
-      "user": "Nutzer",
-      "interface": "Interface",
-      "logic": "Logik",
-      "data": "Daten",
-      "system": "System"
+      "user": "NUTZER",
+      "interface": "INTERFACE",
+      "logic": "LOGIK",
+      "data": "DATEN",
+      "system": "SYSTEM"
     }
   },
   "profile": {
     "label": "01 / PROFIL",
-    "title": "Wo sauberer Code auf klare Kommunikation trifft.",
+    "title": "Engineering mit menschlicher Perspektive.",
     "engineering": {
-      "title": "Engineering",
-      "text": "Moderne Web- und Backend-Entwicklung mit Angular, TypeScript, Node.js, SQL und REST APIs — klare Architektur statt Schnellschüssen."
+      "title": "ENGINEERING",
+      "text": "Frontend, Backend, APIs, Datenstrukturen und sauberer, wartbarer Code."
     },
     "experience": {
-      "title": "Erfahrung",
-      "text": "Langjährige Praxis in Erwachsenenbildung, Coaching und technischer Schulung — die Grundlage für strukturierte, verlässliche Umsetzung."
+      "title": "EXPERIENCE",
+      "text": "UI, UX, Interaktion und visuelle Struktur mit Fokus auf Klarheit und Nutzbarkeit."
     },
     "product": {
-      "title": "Produkt & Design",
-      "text": "Ausgebildeter Mediengestalter (IHK): UI/UX-Design, visuelle Konzeption und Layout für Print und Digital."
+      "title": "PRODUCT",
+      "text": "Anforderungen, Struktur, Problemlösung und pragmatische agile Workflows."
     },
     "communication": {
-      "title": "Kommunikation",
-      "text": "Stakeholder-Kommunikation, Requirements Engineering und agile Moderation nach dem Scrum Guide 2020."
+      "title": "COMMUNICATION",
+      "text": "Lehren, Coaching, Stakeholder-Kommunikation und klare Dokumentation."
     }
   },
   "capabilities": {

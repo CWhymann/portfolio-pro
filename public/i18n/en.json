@@ -8,39 +8,42 @@
     "about": "About",
     "contact": "Contact"
   },
+
   "intro": {
     "label": "HYBRID ENGINEER",
-    "title": "Christian Wiemann",
-    "claim": "UI/UX &amp; Full-Stack Specialist · Agile IT Consultant — building digital products end to end, from requirements to release.",
-    "action": "View my profile",
+    "title": "Software × Interface × Systems",
+    "claim": "I turn complex requirements<br />into clear digital experiences.",
+    "action": "EXPLORE",
     "flow": {
-      "user": "User",
-      "interface": "Interface",
-      "logic": "Logic",
-      "data": "Data",
-      "system": "System"
+      "user": "USER",
+      "interface": "INTERFACE",
+      "logic": "LOGIC",
+      "data": "DATA",
+      "system": "SYSTEM"
     }
   },
+
   "profile": {
     "label": "01 / PROFILE",
-    "title": "Where clean code meets clear communication.",
+    "title": "Engineering with a human perspective.",
     "engineering": {
-      "title": "Engineering",
-      "text": "Modern web and backend development with Angular, TypeScript, Node.js, SQL and REST APIs — clean architecture over quick fixes."
+      "title": "ENGINEERING",
+      "text": "Frontend, backend, APIs, data structures and clean, maintainable code."
     },
     "experience": {
-      "title": "Experience",
-      "text": "Years of practice in adult education, coaching and technical training, translating into structured, dependable delivery."
+      "title": "EXPERIENCE",
+      "text": "UI, UX, interaction and visual structure focused on clarity and usability."
     },
     "product": {
-      "title": "Product & Design",
-      "text": "Trained media designer (IHK): UI/UX design, visual conception and layout across print and digital products."
+      "title": "PRODUCT",
+      "text": "Requirements, structure, problem solving and pragmatic agile workflows."
     },
     "communication": {
-      "title": "Communication",
-      "text": "Stakeholder communication, requirements engineering and agile moderation following the Scrum Guide 2020."
+      "title": "COMMUNICATION",
+      "text": "Teaching, coaching, stakeholder communication and clear documentation."
     }
   },
+
   "capabilities": {
     "label": "02 / CAPABILITIES",
     "title": "Building digital experiences from frontend to backend.",
@@ -61,6 +64,7 @@
       "text": "UI, UX, Adobe, visual communication, storytelling and instructional design."
     }
   },
+
   "work": {
     "label": "03 / WORK",
     "title": "Selected projects, built end to end.",
@@ -83,6 +87,7 @@
     "githubLabel": "View on GitHub",
     "previewLabel": "Preview"
   },
+
   "system": {
     "label": "04 / SYSTEM",
     "title": "A structured process, not guesswork.",

@@ -1,44 +1,36 @@
 <section class="profile" id="profile">
   <div class="container">
     <div class="profile__header">
-      <p class="profile__label">01 / PROFILE</p>
+      <p class="profile__label">{{ translation.translate('profile.label') }}</p>
 
       <h2 class="profile__title">
-        Engineering with a human perspective.
+        {{ translation.translate('profile.title') }}
       </h2>
     </div>
 
     <div class="profile__grid">
       <article class="profile__area">
         <span class="profile__number">01</span>
-        <h3>ENGINEERING</h3>
-        <p>
-          Frontend, backend, APIs, data structures and clean, maintainable code.
-        </p>
+        <h3>{{ translation.translate('profile.engineering.title') }}</h3>
+        <p>{{ translation.translate('profile.engineering.text') }}</p>
       </article>
 
       <article class="profile__area">
         <span class="profile__number">02</span>
-        <h3>EXPERIENCE</h3>
-        <p>
-          UI, UX, interaction and visual structure focused on clarity and usability.
-        </p>
+        <h3>{{ translation.translate('profile.experience.title') }}</h3>
+        <p>{{ translation.translate('profile.experience.text') }}</p>
       </article>
 
       <article class="profile__area">
         <span class="profile__number">03</span>
-        <h3>PRODUCT</h3>
-        <p>
-          Requirements, structure, problem solving and pragmatic agile workflows.
-        </p>
+        <h3>{{ translation.translate('profile.product.title') }}</h3>
+        <p>{{ translation.translate('profile.product.text') }}</p>
       </article>
 
       <article class="profile__area">
         <span class="profile__number">04</span>
-        <h3>COMMUNICATION</h3>
-        <p>
-          Teaching, coaching, stakeholder communication and clear documentation.
-        </p>
+        <h3>{{ translation.translate('profile.communication.title') }}</h3>
+        <p>{{ translation.translate('profile.communication.text') }}</p>
       </article>
     </div>
   </div>

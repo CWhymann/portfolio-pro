@@ -8,39 +8,42 @@
     "about": "Chi sono",
     "contact": "Contatti"
   },
+
   "intro": {
     "label": "HYBRID ENGINEER",
-    "title": "Christian Wiemann",
-    "claim": "Specialista UI/UX &amp; Full-Stack · Consulente IT Agile — realizzo prodotti digitali dall'inizio alla fine, dai requisiti al rilascio.",
-    "action": "Vai al profilo",
+    "title": "Software × Interfaccia × Sistemi",
+    "claim": "Trasformo requisiti complessi<br />in esperienze digitali chiare.",
+    "action": "ESPLORA",
     "flow": {
-      "user": "Utente",
-      "interface": "Interfaccia",
-      "logic": "Logica",
-      "data": "Dati",
-      "system": "Sistema"
+      "user": "UTENTE",
+      "interface": "INTERFACCIA",
+      "logic": "LOGICA",
+      "data": "DATI",
+      "system": "SISTEMA"
     }
   },
+
   "profile": {
     "label": "01 / PROFILO",
-    "title": "Dove il codice pulito incontra la comunicazione chiara.",
+    "title": "Ingegneria con una prospettiva umana.",
     "engineering": {
-      "title": "Ingegneria",
-      "text": "Sviluppo web e backend moderno con Angular, TypeScript, Node.js, SQL e REST API — architettura chiara invece di soluzioni rapide."
+      "title": "ENGINEERING",
+      "text": "Frontend, backend, API, strutture dati e codice pulito e manutenibile."
     },
     "experience": {
-      "title": "Esperienza",
-      "text": "Anni di pratica nella formazione degli adulti, coaching e formazione tecnica, tradotti in una consegna strutturata e affidabile."
+      "title": "EXPERIENCE",
+      "text": "UI, UX, interazione e struttura visiva incentrate su chiarezza e usabilità."
     },
     "product": {
-      "title": "Prodotto e Design",
-      "text": "Grafico pubblicitario certificato (IHK): design UI/UX, concezione visiva e layout per stampa e digitale."
+      "title": "PRODUCT",
+      "text": "Requisiti, struttura, problem solving e workflow agili pragmatici."
     },
     "communication": {
-      "title": "Comunicazione",
-      "text": "Comunicazione con gli stakeholder, requirements engineering e moderazione agile secondo lo Scrum Guide 2020."
+      "title": "COMMUNICATION",
+      "text": "Insegnamento, coaching, comunicazione con gli stakeholder e documentazione chiara."
     }
   },
+
   "capabilities": {
     "label": "02 / COMPETENZE",
     "title": "Esperienze digitali dal frontend al backend.",
@@ -61,6 +64,7 @@
       "text": "UI, UX, Adobe, comunicazione visiva, storytelling e progettazione didattica."
     }
   },
+
   "work": {
     "label": "03 / PROGETTI",
     "title": "Progetti selezionati, realizzati dall'inizio alla fine.",
@@ -83,6 +87,7 @@
     "githubLabel": "Vedi su GitHub",
     "previewLabel": "Anteprima"
   },
+
   "system": {
     "label": "04 / SISTEMA",
     "title": "Un processo strutturato, non improvvisazione.",

@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Translation } from '../../core/translation';
 
 @Component({
   imports: [],
@@ -6,4 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './intro.scss',
   templateUrl: './intro.html',
 })
-export class Intro {}
+export class Intro {
+  constructor(public translation: Translation) {}
+}

@@ -8,39 +8,42 @@
     "about": "Over mij",
     "contact": "Contact"
   },
+
   "intro": {
     "label": "HYBRID ENGINEER",
-    "title": "Christian Wiemann",
-    "claim": "UI/UX- &amp; Full-Stack Specialist · Agile IT-consultant — ik bouw digitale producten van begin tot eind, van requirement tot release.",
-    "action": "Bekijk mijn profiel",
+    "title": "Software × Interface × Systemen",
+    "claim": "Ik vertaal complexe requirements<br />naar heldere digitale ervaringen.",
+    "action": "VERKEN",
     "flow": {
-      "user": "Gebruiker",
-      "interface": "Interface",
-      "logic": "Logica",
-      "data": "Data",
-      "system": "Systeem"
+      "user": "GEBRUIKER",
+      "interface": "INTERFACE",
+      "logic": "LOGICA",
+      "data": "DATA",
+      "system": "SYSTEEM"
     }
   },
+
   "profile": {
     "label": "01 / PROFIEL",
-    "title": "Waar nette code en heldere communicatie samenkomen.",
+    "title": "Engineering vanuit een menselijk perspectief.",
     "engineering": {
-      "title": "Engineering",
-      "text": "Moderne web- en backend-ontwikkeling met Angular, TypeScript, Node.js, SQL en REST API's — heldere architectuur in plaats van snelle oplossingen."
+      "title": "ENGINEERING",
+      "text": "Frontend, backend, API's, datastructuren en schone, onderhoudbare code."
     },
     "experience": {
-      "title": "Ervaring",
-      "text": "Jarenlange praktijk in volwassenenonderwijs, coaching en technische training, vertaald naar gestructureerde, betrouwbare oplevering."
+      "title": "EXPERIENCE",
+      "text": "UI, UX, interactie en visuele structuur gericht op duidelijkheid en bruikbaarheid."
     },
     "product": {
-      "title": "Product & Design",
-      "text": "Opgeleid mediavormgever (IHK): UI/UX-design, visuele conceptie en layout voor print en digitaal."
+      "title": "PRODUCT",
+      "text": "Requirements, structuur, probleemoplossing en pragmatische agile workflows."
     },
     "communication": {
-      "title": "Communicatie",
-      "text": "Stakeholdercommunicatie, requirements engineering en agile facilitering volgens de Scrum Guide 2020."
+      "title": "COMMUNICATION",
+      "text": "Lesgeven, coaching, stakeholdercommunicatie en heldere documentatie."
     }
   },
+
   "capabilities": {
     "label": "02 / VAARDIGHEDEN",
     "title": "Digitale ervaringen van frontend tot backend.",
@@ -61,6 +64,7 @@
       "text": "UI, UX, Adobe, visuele communicatie, storytelling en instructional design."
     }
   },
+
   "work": {
     "label": "03 / PROJECTEN",
     "title": "Geselecteerde projecten, van begin tot eind gebouwd.",
@@ -83,6 +87,7 @@
     "githubLabel": "Bekijk op GitHub",
     "previewLabel": "Voorbeeld"
   },
+
   "system": {
     "label": "04 / SYSTEEM",
     "title": "Een gestructureerd proces, geen giswerk.",
