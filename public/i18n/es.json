@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "profile": "Perfil",
+    "capabilities": "Capacidades",
+    "work": "Proyectos",
+    "system": "Sistema",
+    "journey": "Trayectoria",
+    "about": "Sobre mí",
+    "contact": "Contacto"
+  },
+  "intro": {
+    "label": "HYBRID ENGINEER",
+    "title": "Christian Wiemann",
+    "claim": "Especialista en UI/UX y Full-Stack · Consultor ágil de TI — desarrollo productos digitales de principio a fin, desde los requisitos hasta el lanzamiento.",
+    "action": "Ver mi perfil",
+    "flow": {
+      "user": "Usuario",
+      "interface": "Interfaz",
+      "logic": "Lógica",
+      "data": "Datos",
+      "system": "Sistema"
+    }
+  },
+  "profile": {
+    "label": "01 / PERFIL",
+    "title": "Donde el código limpio se encuentra con la comunicación clara.",
+    "engineering": {
+      "title": "Ingeniería",
+      "text": "Desarrollo web y backend moderno con Angular, TypeScript, Node.js, SQL y REST APIs — arquitectura clara en lugar de soluciones rápidas."
+    },
+    "experience": {
+      "title": "Experiencia",
+      "text": "Años de práctica en formación de adultos, coaching y capacitación técnica, que se traducen en una entrega estructurada y fiable."
+    },
+    "product": {
+      "title": "Producto y Diseño",
+      "text": "Diseñador gráfico certificado (IHK): diseño UI/UX, concepción visual y maquetación para impresión y digital."
+    },
+    "communication": {
+      "title": "Comunicación",
+      "text": "Comunicación con stakeholders, ingeniería de requisitos y moderación ágil según la Guía Scrum 2020."
+    }
+  },
+  "capabilities": {
+    "label": "02 / CAPACIDADES",
+    "title": "Creando experiencias digitales de frontend a backend.",
+    "frontend": {
+      "title": "DESARROLLO FRONTEND",
+      "text": "HTML, CSS, SCSS, JavaScript, TypeScript, Angular y desarrollo web responsive."
+    },
+    "backend": {
+      "title": "DESARROLLO BACKEND",
+      "text": "REST APIs, Supabase, integración de bases de datos, autenticación e integración backend."
+    },
+    "tools": {
+      "title": "HERRAMIENTAS Y FLUJO",
+      "text": "Git, GitHub, VS Code, npm, GitHub Actions y flujos de trabajo estructurados."
+    },
+    "design": {
+      "title": "DISEÑO Y DIGITAL",
+      "text": "UI, UX, Adobe, comunicación visual, storytelling y diseño instruccional."
+    }
+  },
+  "work": {
+    "label": "03 / PROYECTOS",
+    "title": "Proyectos seleccionados, desarrollados de principio a fin.",
+    "join": {
+      "title": "JOIN",
+      "role": "App Kanban de equipo · Angular · equipo de 3 personas",
+      "desc": "Aplicación Kanban colaborativa desarrollada en equipo. Responsable del área de Contactos: UI, gestión de estado y lógica de formularios. Diagnostiqué y corregí de forma independiente un error de diseño móvil y un error de persistencia de estado en la vista de detalle de contacto, cada uno fusionado mediante pull request."
+    },
+    "pollo": {
+      "title": "El Pollo Loco",
+      "role": "Juego 2D de plataformas · JavaScript puro",
+      "desc": "Juego de navegador orientado a objetos creado desde cero en JavaScript: jerarquía de herencia propia para los objetos del juego, bucle de juego, detección de colisiones, física y varias pantallas de interfaz (inicio, pausa, fin del juego)."
+    },
+    "studio": {
+      "title": "Studio Wiemann",
+      "role": "Gestión de equipos y tareas multi-proyecto · Angular · Supabase · Individual",
+      "desc": "Aplicación de panel para gestionar varios proyectos en paralelo: tablero Kanban, gestión de equipo y personas, vista de calendario y un panel en vivo con la distribución de estado por proyecto. Datos persistidos con Supabase y un store propio basado en signals para el estado reactivo de proyectos, personas y tareas."
+    },
+    "liveLabel": "Ver en vivo",
+    "githubLabel": "Ver en GitHub",
+    "previewLabel": "Vista previa"
+  },
+  "system": {
+    "label": "04 / SISTEMA",
+    "title": "Un proceso estructurado, no conjeturas.",
+    "discover": {
+      "title": "Descubrir y Alinear",
+      "text": "Recopilación estructurada de requisitos, moderación de stakeholders y definición de prioridades — ingeniería de requisitos forjada en años de educación de adultos y consultoría."
+    },
+    "design": {
+      "title": "Diseño",
+      "text": "Definición de la experiencia de usuario y el lenguaje visual antes de escribir una sola línea de código — con base en la formación como diseñador gráfico."
+    },
+    "build": {
+      "title": "Construcción",
+      "text": "Implementación limpia y mantenible de frontend a backend — con arquitectura clara en lugar de soluciones rápidas."
+    },
+    "ship": {
+      "title": "Lanzamiento e Iteración",
+      "text": "Entrega ágil en ciclos cortos, versionada y documentada — incluyendo procesos conformes al RGPD del entorno de la administración pública."
+    }
+  }
+}

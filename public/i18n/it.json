@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "profile": "Profilo",
+    "capabilities": "Competenze",
+    "work": "Progetti",
+    "system": "Sistema",
+    "journey": "Percorso",
+    "about": "Chi sono",
+    "contact": "Contatti"
+  },
+  "intro": {
+    "label": "HYBRID ENGINEER",
+    "title": "Christian Wiemann",
+    "claim": "Specialista UI/UX &amp; Full-Stack · Consulente IT Agile — realizzo prodotti digitali dall'inizio alla fine, dai requisiti al rilascio.",
+    "action": "Vai al profilo",
+    "flow": {
+      "user": "Utente",
+      "interface": "Interfaccia",
+      "logic": "Logica",
+      "data": "Dati",
+      "system": "Sistema"
+    }
+  },
+  "profile": {
+    "label": "01 / PROFILO",
+    "title": "Dove il codice pulito incontra la comunicazione chiara.",
+    "engineering": {
+      "title": "Ingegneria",
+      "text": "Sviluppo web e backend moderno con Angular, TypeScript, Node.js, SQL e REST API — architettura chiara invece di soluzioni rapide."
+    },
+    "experience": {
+      "title": "Esperienza",
+      "text": "Anni di pratica nella formazione degli adulti, coaching e formazione tecnica, tradotti in una consegna strutturata e affidabile."
+    },
+    "product": {
+      "title": "Prodotto e Design",
+      "text": "Grafico pubblicitario certificato (IHK): design UI/UX, concezione visiva e layout per stampa e digitale."
+    },
+    "communication": {
+      "title": "Comunicazione",
+      "text": "Comunicazione con gli stakeholder, requirements engineering e moderazione agile secondo lo Scrum Guide 2020."
+    }
+  },
+  "capabilities": {
+    "label": "02 / COMPETENZE",
+    "title": "Esperienze digitali dal frontend al backend.",
+    "frontend": {
+      "title": "SVILUPPO FRONTEND",
+      "text": "HTML, CSS, SCSS, JavaScript, TypeScript, Angular e sviluppo web responsive."
+    },
+    "backend": {
+      "title": "SVILUPPO BACKEND",
+      "text": "REST API, Supabase, integrazione database, autenticazione e integrazione backend."
+    },
+    "tools": {
+      "title": "STRUMENTI E WORKFLOW",
+      "text": "Git, GitHub, VS Code, npm, GitHub Actions e workflow di sviluppo strutturati."
+    },
+    "design": {
+      "title": "DESIGN & DIGITALE",
+      "text": "UI, UX, Adobe, comunicazione visiva, storytelling e progettazione didattica."
+    }
+  },
+  "work": {
+    "label": "03 / PROGETTI",
+    "title": "Progetti selezionati, realizzati dall'inizio alla fine.",
+    "join": {
+      "title": "JOIN",
+      "role": "App Kanban di team · Angular · team di 3 persone",
+      "desc": "Applicazione Kanban collaborativa sviluppata in team. Responsabile dell'area Contatti: UI, gestione dello stato e logica dei form. Ho diagnosticato e risolto autonomamente un bug di layout mobile e un bug di persistenza dello stato nella vista dettaglio contatto, entrambi uniti tramite pull request."
+    },
+    "pollo": {
+      "title": "El Pollo Loco",
+      "role": "Gioco 2D platform · JavaScript puro",
+      "desc": "Gioco browser orientato agli oggetti realizzato da zero in JavaScript: gerarchia di ereditarietà personalizzata per gli oggetti di gioco, game loop, rilevamento delle collisioni, fisica e diverse schermate UI (avvio, pausa, game over)."
+    },
+    "studio": {
+      "title": "Studio Wiemann",
+      "role": "Gestione team e attività multi-progetto · Angular · Supabase · Solo",
+      "desc": "Applicazione dashboard per gestire più progetti in parallelo: board Kanban, gestione di team e persone, vista calendario e una dashboard live con distribuzione dello stato per progetto. Dati persistiti tramite Supabase, con uno store personalizzato basato su signal per lo stato reattivo di progetti, persone e attività."
+    },
+    "liveLabel": "Vedi live",
+    "githubLabel": "Vedi su GitHub",
+    "previewLabel": "Anteprima"
+  },
+  "system": {
+    "label": "04 / SISTEMA",
+    "title": "Un processo strutturato, non improvvisazione.",
+    "discover": {
+      "title": "Scoperta e Allineamento",
+      "text": "Raccolta strutturata dei requisiti, moderazione degli stakeholder e definizione delle priorità — requirements engineering plasmato da anni nella formazione degli adulti e nella consulenza."
+    },
+    "design": {
+      "title": "Design",
+      "text": "Definizione dell'esperienza utente e del linguaggio visivo prima ancora di scrivere una riga di codice — basata sulla formazione come grafico pubblicitario."
+    },
+    "build": {
+      "title": "Sviluppo",
+      "text": "Implementazione pulita e manutenibile dal frontend al backend — con un'architettura chiara invece di soluzioni rapide."
+    },
+    "ship": {
+      "title": "Rilascio e Iterazione",
+      "text": "Consegna agile in cicli brevi, versionata e documentata — inclusi processi conformi al GDPR nell'ambito della pubblica amministrazione."
+    }
+  }
+}

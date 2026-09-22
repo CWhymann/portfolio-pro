@@ -15,13 +15,57 @@
     </button>
 
     <nav class="header__nav" [class.header__nav--open]="menuOpen()" aria-label="Main navigation">
-      <a href="#profile" (click)="closeMenu()">Profile</a>
-      <a href="#capabilities" (click)="closeMenu()">Capabilities</a>
-      <a href="#work" (click)="closeMenu()">Work</a>
-      <a href="#system" (click)="closeMenu()">System</a>
-      <a href="#journey" (click)="closeMenu()">Journey</a>
-      <a href="#about" (click)="closeMenu()">About</a>
-      <a href="#contact" (click)="closeMenu()">Contact</a>
+      <a href="#profile" (click)="closeMenu()">{{ translation.translate('nav.profile') }}</a>
+      <a href="#capabilities" (click)="closeMenu()">{{
+        translation.translate('nav.capabilities')
+      }}</a>
+      <a href="#work" (click)="closeMenu()">{{ translation.translate('nav.work') }}</a>
+      <a href="#system" (click)="closeMenu()">{{ translation.translate('nav.system') }}</a>
+      <a href="#journey" (click)="closeMenu()">{{ translation.translate('nav.journey') }}</a>
+      <a href="#about" (click)="closeMenu()">{{ translation.translate('nav.about') }}</a>
+      <a href="#contact" (click)="closeMenu()">{{ translation.translate('nav.contact') }}</a>
+
+      <div class="header__lang" [class.header__lang--open]="langMenuOpen()">
+        <button
+          type="button"
+          class="header__lang-toggle"
+          aria-label="Sprache wählen"
+          [attr.aria-expanded]="langMenuOpen()"
+          (click)="toggleLangMenu()"
+        >
+          <svg
+            viewBox="0 0 24 24"
+            width="20"
+            height="20"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.6"
+          >
+            <circle cx="12" cy="12" r="9" />
+            <path
+              d="M3 12h18M12 3c2.5 2.6 3.8 5.7 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.7-3.8-9s1.3-6.4 3.8-9Z"
+            />
+          </svg>
+          <span class="header__lang-current">{{ translation.currentLang() }}</span>
+        </button>
+
+        @if (langMenuOpen()) {
+          <ul class="header__lang-dropdown" role="menu">
+            @for (lang of languages; track lang.code) {
+              <li role="menuitem">
+                <button
+                  type="button"
+                  class="header__lang-btn"
+                  [class.header__lang-btn--active]="translation.currentLang() === lang.code"
+                  (click)="selectLanguage(lang.code)"
+                >
+                  {{ lang.label }}
+                </button>
+              </li>
+            }
+          </ul>
+        }
+      </div>
     </nav>
   </div>
 </header>
@@ -29,4 +73,10 @@
 <main>
   <app-intro />
   <app-profile />
+  <app-capabilities />
+  <app-work />
+  <app-system />
+  <app-journey />
+  <app-about />
+  <app-contact />
 </main>

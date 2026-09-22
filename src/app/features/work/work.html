@@ -1,1 +1,137 @@
-<p>work works!</p>
+<section class="work" id="work">
+  <div class="container">
+    <div class="work__header">
+      <p class="work__label">{{ translation.translate('work.label') }}</p>
+      <h2 class="work__title">{{ translation.translate('work.title') }}</h2>
+    </div>
+
+    <div class="work__list">
+      <article class="work__project">
+        <div class="work__meta">
+          <span class="work__number">01</span>
+          <span class="work__year">2026</span>
+        </div>
+
+        <div class="work__body">
+          <h3>{{ translation.translate('work.join.title') }}</h3>
+          <p class="work__role">{{ translation.translate('work.join.role') }}</p>
+          <p class="work__desc">{{ translation.translate('work.join.desc') }}</p>
+          <ul class="work__tags">
+            <li>Angular</li>
+            <li>TypeScript</li>
+            <li>Reactive Forms</li>
+            <li>Git / PR Workflow</li>
+          </ul>
+          <div class="work__links">
+            <span class="work__live">
+              <a
+                class="work__link"
+                href="https://cwhymann.github.io/join/"
+                target="_blank"
+                rel="noopener"
+              >
+                {{ translation.translate('work.liveLabel') }} ↗
+              </a>
+              <span class="work__live-preview">
+                <img src="img/join.png" alt="Screenshot der JOIN Kanban App" loading="lazy" />
+              </span>
+            </span>
+            <a
+              class="work__link"
+              href="https://github.com/CWhymann/join"
+              target="_blank"
+              rel="noopener"
+            >
+              {{ translation.translate('work.githubLabel') }} ↗
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="work__project">
+        <div class="work__meta">
+          <span class="work__number">02</span>
+          <span class="work__year">2025</span>
+        </div>
+
+        <div class="work__body">
+          <h3>{{ translation.translate('work.pollo.title') }}</h3>
+          <p class="work__role">{{ translation.translate('work.pollo.role') }}</p>
+          <p class="work__desc">{{ translation.translate('work.pollo.desc') }}</p>
+          <ul class="work__tags">
+            <li>JavaScript (OOP)</li>
+            <li>Canvas API</li>
+            <li>Game Loop</li>
+            <li>Collision Detection</li>
+          </ul>
+          <div class="work__links">
+            <span class="work__live">
+              <a
+                class="work__link"
+                href="https://cwhymann.github.io/el-pollo-loco/"
+                target="_blank"
+                rel="noopener"
+              >
+                {{ translation.translate('work.liveLabel') }} ↗
+              </a>
+              <span class="work__live-preview">
+                <img
+                  src="img/el-pollo-loco.png"
+                  alt="Screenshot des Spiels El Pollo Loco"
+                  loading="lazy"
+                />
+              </span>
+            </span>
+            <a
+              class="work__link"
+              href="https://github.com/CWhymann/el-pollo-loco"
+              target="_blank"
+              rel="noopener"
+            >
+              {{ translation.translate('work.githubLabel') }} ↗
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <article class="work__project">
+        <div class="work__meta">
+          <span class="work__number">03</span>
+          <span class="work__year">2026</span>
+        </div>
+
+        <div class="work__body">
+          <h3>{{ translation.translate('work.studio.title') }}</h3>
+          <p class="work__role">{{ translation.translate('work.studio.role') }}</p>
+          <p class="work__desc">{{ translation.translate('work.studio.desc') }}</p>
+          <ul class="work__tags">
+            <li>Angular Signals</li>
+            <li>Supabase</li>
+            <li>Tailwind CSS</li>
+            <li>Data Modeling</li>
+          </ul>
+          <div class="work__links">
+            <span class="work__live">
+              <span class="work__link">{{ translation.translate('work.previewLabel') }}</span>
+              <span class="work__live-preview">
+                <img
+                  src="img/studio-wiemann.png"
+                  alt="Screenshot des Studio-Wiemann-Dashboards"
+                  loading="lazy"
+                />
+              </span>
+            </span>
+            <a
+              class="work__link"
+              href="https://github.com/CWhymann/studio-wiemann"
+              target="_blank"
+              rel="noopener"
+            >
+              {{ translation.translate('work.githubLabel') }} ↗
+            </a>
+          </div>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>

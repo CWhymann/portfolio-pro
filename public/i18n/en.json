@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "profile": "Profile",
+    "capabilities": "Capabilities",
+    "work": "Work",
+    "system": "System",
+    "journey": "Journey",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "intro": {
+    "label": "HYBRID ENGINEER",
+    "title": "Christian Wiemann",
+    "claim": "UI/UX &amp; Full-Stack Specialist · Agile IT Consultant — building digital products end to end, from requirements to release.",
+    "action": "View my profile",
+    "flow": {
+      "user": "User",
+      "interface": "Interface",
+      "logic": "Logic",
+      "data": "Data",
+      "system": "System"
+    }
+  },
+  "profile": {
+    "label": "01 / PROFILE",
+    "title": "Where clean code meets clear communication.",
+    "engineering": {
+      "title": "Engineering",
+      "text": "Modern web and backend development with Angular, TypeScript, Node.js, SQL and REST APIs — clean architecture over quick fixes."
+    },
+    "experience": {
+      "title": "Experience",
+      "text": "Years of practice in adult education, coaching and technical training, translating into structured, dependable delivery."
+    },
+    "product": {
+      "title": "Product & Design",
+      "text": "Trained media designer (IHK): UI/UX design, visual conception and layout across print and digital products."
+    },
+    "communication": {
+      "title": "Communication",
+      "text": "Stakeholder communication, requirements engineering and agile moderation following the Scrum Guide 2020."
+    }
+  },
+  "capabilities": {
+    "label": "02 / CAPABILITIES",
+    "title": "Building digital experiences from frontend to backend.",
+    "frontend": {
+      "title": "FRONTEND DEVELOPMENT",
+      "text": "HTML, CSS, SCSS, JavaScript, TypeScript, Angular and responsive web development."
+    },
+    "backend": {
+      "title": "BACKEND DEVELOPMENT",
+      "text": "REST APIs, Supabase, database integration, authentication and backend integration."
+    },
+    "tools": {
+      "title": "TOOLS & WORKFLOW",
+      "text": "Git, GitHub, VS Code, npm, GitHub Actions and structured development workflows."
+    },
+    "design": {
+      "title": "DESIGN & DIGITAL",
+      "text": "UI, UX, Adobe, visual communication, storytelling and instructional design."
+    }
+  },
+  "work": {
+    "label": "03 / WORK",
+    "title": "Selected projects, built end to end.",
+    "join": {
+      "title": "JOIN",
+      "role": "Team Kanban App · Angular · 3-person team",
+      "desc": "Collaborative Kanban application built with a team. Responsible for the Contacts area: UI, state handling and form logic. Independently diagnosed and fixed a mobile layout bug and a state-persistence bug in the contact detail view, each merged via pull request."
+    },
+    "pollo": {
+      "title": "El Pollo Loco",
+      "role": "2D Jump & Run Game · Vanilla JavaScript",
+      "desc": "Object-oriented browser game built from scratch in JavaScript: a custom inheritance hierarchy for game objects, game loop, collision detection, physics, and multiple UI screens (start, pause, game over)."
+    },
+    "studio": {
+      "title": "Studio Wiemann",
+      "role": "Multi-project team & task management · Angular · Supabase · Solo",
+      "desc": "Dashboard application for managing multiple projects in parallel: Kanban board, team and people management, calendar view, and a live dashboard with per-project status distribution. Data persisted via Supabase, with a custom signal-based store for reactive project, people and task state."
+    },
+    "liveLabel": "View live",
+    "githubLabel": "View on GitHub",
+    "previewLabel": "Preview"
+  },
+  "system": {
+    "label": "04 / SYSTEM",
+    "title": "A structured process, not guesswork.",
+    "discover": {
+      "title": "Discover & Align",
+      "text": "Structured requirements gathering, stakeholder moderation and priority-setting — requirements engineering shaped by years in adult education and consulting."
+    },
+    "design": {
+      "title": "Design",
+      "text": "Shaping the user experience and visual language before a single line of code is written — grounded in training as a media designer."
+    },
+    "build": {
+      "title": "Build",
+      "text": "Clean, maintainable implementation from frontend to backend — with clear architecture instead of quick fixes."
+    },
+    "ship": {
+      "title": "Ship & Iterate",
+      "text": "Agile delivery in short cycles, versioned and documented — including GDPR-compliant processes from public-sector work."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "profile": "Profil",
+    "capabilities": "Fähigkeiten",
+    "work": "Projekte",
+    "system": "System",
+    "journey": "Werdegang",
+    "about": "Über mich",
+    "contact": "Kontakt"
+  },
+  "intro": {
+    "label": "HYBRID ENGINEER",
+    "title": "Christian Wiemann",
+    "claim": "UI/UX- &amp; Full-Stack-Spezialist · Agiler IT-Berater — digitale Produkte durchgängig umgesetzt, von der Anforderung bis zum Release.",
+    "action": "Zum Profil",
+    "flow": {
+      "user": "Nutzer",
+      "interface": "Interface",
+      "logic": "Logik",
+      "data": "Daten",
+      "system": "System"
+    }
+  },
+  "profile": {
+    "label": "01 / PROFIL",
+    "title": "Wo sauberer Code auf klare Kommunikation trifft.",
+    "engineering": {
+      "title": "Engineering",
+      "text": "Moderne Web- und Backend-Entwicklung mit Angular, TypeScript, Node.js, SQL und REST APIs — klare Architektur statt Schnellschüssen."
+    },
+    "experience": {
+      "title": "Erfahrung",
+      "text": "Langjährige Praxis in Erwachsenenbildung, Coaching und technischer Schulung — die Grundlage für strukturierte, verlässliche Umsetzung."
+    },
+    "product": {
+      "title": "Produkt & Design",
+      "text": "Ausgebildeter Mediengestalter (IHK): UI/UX-Design, visuelle Konzeption und Layout für Print und Digital."
+    },
+    "communication": {
+      "title": "Kommunikation",
+      "text": "Stakeholder-Kommunikation, Requirements Engineering und agile Moderation nach dem Scrum Guide 2020."
+    }
+  },
+  "capabilities": {
+    "label": "02 / FÄHIGKEITEN",
+    "title": "Digitale Erlebnisse von Frontend bis Backend.",
+    "frontend": {
+      "title": "FRONTEND-ENTWICKLUNG",
+      "text": "HTML, CSS, SCSS, JavaScript, TypeScript, Angular und responsive Webentwicklung."
+    },
+    "backend": {
+      "title": "BACKEND-ENTWICKLUNG",
+      "text": "REST APIs, Supabase, Datenbankanbindung, Authentifizierung und Backend-Integration."
+    },
+    "tools": {
+      "title": "TOOLS & WORKFLOW",
+      "text": "Git, GitHub, VS Code, npm, GitHub Actions und strukturierte Entwicklungs-Workflows."
+    },
+    "design": {
+      "title": "DESIGN & DIGITAL",
+      "text": "UI, UX, Adobe, visuelle Kommunikation, Storytelling und didaktische Aufbereitung."
+    }
+  },
+  "work": {
+    "label": "03 / PROJEKTE",
+    "title": "Ausgewählte Projekte, durchgängig umgesetzt.",
+    "join": {
+      "title": "JOIN",
+      "role": "Team-Kanban-App · Angular · 3-Personen-Team",
+      "desc": "Kollaborative Kanban-Anwendung im Team entwickelt. Verantwortlich für den Contacts-Bereich: UI, State-Handling und Formularlogik. Eigenständige Fehleranalyse und Behebung eines mobilen Layout-Bugs sowie eines State-Persistence-Bugs in der Kontaktdetailansicht, jeweils per Pull Request gemerged."
+    },
+    "pollo": {
+      "title": "El Pollo Loco",
+      "role": "2D Jump & Run Game · Vanilla JavaScript",
+      "desc": "Objektorientiertes Browser-Spiel von Grund auf in JavaScript umgesetzt: eigene Vererbungshierarchie für Spielobjekte, Game-Loop, Kollisionserkennung, Physik sowie mehrere UI-Screens (Start, Pause, Game Over)."
+    },
+    "studio": {
+      "title": "Studio Wiemann",
+      "role": "Multi-Projekt Team- & Task-Management · Angular · Supabase · Solo",
+      "desc": "Dashboard-Anwendung zur Steuerung mehrerer Projekte parallel: Kanban-Board, Team- und Personenverwaltung, Kalenderansicht sowie ein Live-Dashboard mit Status-Verteilung pro Projekt. Datenhaltung über Supabase, eigener Signal-basierter Store für reaktiven Projekt-, Personen- und Task-State."
+    },
+    "liveLabel": "Live ansehen",
+    "githubLabel": "Auf GitHub ansehen",
+    "previewLabel": "Vorschau"
+  },
+  "system": {
+    "label": "04 / SYSTEM",
+    "title": "Ein strukturierter Prozess statt Rätselraten.",
+    "discover": {
+      "title": "Discover & Align",
+      "text": "Anforderungen strukturiert erfassen, Stakeholder moderieren und Prioritäten klären — Requirements Engineering, geprägt durch Jahre in Erwachsenenbildung und Beratung."
+    },
+    "design": {
+      "title": "Design",
+      "text": "Konzeption der User Experience und visuellen Sprache, bevor eine Zeile Code steht — Fundament aus der Ausbildung zum Mediengestalter."
+    },
+    "build": {
+      "title": "Build",
+      "text": "Saubere, wartbare Umsetzung von Frontend bis Backend — mit klarer Architektur statt Schnellschüssen."
+    },
+    "ship": {
+      "title": "Ship & Iterate",
+      "text": "Agile Auslieferung in kurzen Zyklen, versioniert und dokumentiert — inklusive DSGVO-konformer Prozesse aus dem Verwaltungsumfeld."
+    }
+  }
+}

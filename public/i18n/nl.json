@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "profile": "Profiel",
+    "capabilities": "Vaardigheden",
+    "work": "Projecten",
+    "system": "Systeem",
+    "journey": "Traject",
+    "about": "Over mij",
+    "contact": "Contact"
+  },
+  "intro": {
+    "label": "HYBRID ENGINEER",
+    "title": "Christian Wiemann",
+    "claim": "UI/UX- &amp; Full-Stack Specialist · Agile IT-consultant — ik bouw digitale producten van begin tot eind, van requirement tot release.",
+    "action": "Bekijk mijn profiel",
+    "flow": {
+      "user": "Gebruiker",
+      "interface": "Interface",
+      "logic": "Logica",
+      "data": "Data",
+      "system": "Systeem"
+    }
+  },
+  "profile": {
+    "label": "01 / PROFIEL",
+    "title": "Waar nette code en heldere communicatie samenkomen.",
+    "engineering": {
+      "title": "Engineering",
+      "text": "Moderne web- en backend-ontwikkeling met Angular, TypeScript, Node.js, SQL en REST API's — heldere architectuur in plaats van snelle oplossingen."
+    },
+    "experience": {
+      "title": "Ervaring",
+      "text": "Jarenlange praktijk in volwassenenonderwijs, coaching en technische training, vertaald naar gestructureerde, betrouwbare oplevering."
+    },
+    "product": {
+      "title": "Product & Design",
+      "text": "Opgeleid mediavormgever (IHK): UI/UX-design, visuele conceptie en layout voor print en digitaal."
+    },
+    "communication": {
+      "title": "Communicatie",
+      "text": "Stakeholdercommunicatie, requirements engineering en agile facilitering volgens de Scrum Guide 2020."
+    }
+  },
+  "capabilities": {
+    "label": "02 / VAARDIGHEDEN",
+    "title": "Digitale ervaringen van frontend tot backend.",
+    "frontend": {
+      "title": "FRONTEND-ONTWIKKELING",
+      "text": "HTML, CSS, SCSS, JavaScript, TypeScript, Angular en responsive webontwikkeling."
+    },
+    "backend": {
+      "title": "BACKEND-ONTWIKKELING",
+      "text": "REST API's, Supabase, database-integratie, authenticatie en backend-integratie."
+    },
+    "tools": {
+      "title": "TOOLS & WORKFLOW",
+      "text": "Git, GitHub, VS Code, npm, GitHub Actions en gestructureerde ontwikkelworkflows."
+    },
+    "design": {
+      "title": "DESIGN & DIGITAAL",
+      "text": "UI, UX, Adobe, visuele communicatie, storytelling en instructional design."
+    }
+  },
+  "work": {
+    "label": "03 / PROJECTEN",
+    "title": "Geselecteerde projecten, van begin tot eind gebouwd.",
+    "join": {
+      "title": "JOIN",
+      "role": "Team Kanban-app · Angular · team van 3 personen",
+      "desc": "Samen met een team ontwikkelde collaboratieve Kanban-applicatie. Verantwoordelijk voor het Contacts-onderdeel: UI, state-afhandeling en formulierlogica. Zelfstandig een mobiele layoutbug en een state-persistence-bug in het contactdetailscherm gediagnosticeerd en opgelost, elk gemerged via een pull request."
+    },
+    "pollo": {
+      "title": "El Pollo Loco",
+      "role": "2D Jump & Run-game · Vanilla JavaScript",
+      "desc": "Objectgeoriënteerd browsergame volledig zelf gebouwd in JavaScript: eigen overervingshiërarchie voor game-objecten, game loop, botsingsdetectie, physics en meerdere UI-schermen (start, pauze, game over)."
+    },
+    "studio": {
+      "title": "Studio Wiemann",
+      "role": "Multi-project team- & taakbeheer · Angular · Supabase · Solo",
+      "desc": "Dashboardapplicatie voor het parallel beheren van meerdere projecten: Kanban-bord, team- en personenbeheer, kalenderweergave en een live dashboard met statusverdeling per project. Data opgeslagen via Supabase, met een eigen signal-gebaseerde store voor reactieve project-, personen- en taakstatus."
+    },
+    "liveLabel": "Live bekijken",
+    "githubLabel": "Bekijk op GitHub",
+    "previewLabel": "Voorbeeld"
+  },
+  "system": {
+    "label": "04 / SYSTEEM",
+    "title": "Een gestructureerd proces, geen giswerk.",
+    "discover": {
+      "title": "Discover & Align",
+      "text": "Gestructureerd requirements verzamelen, stakeholders modereren en prioriteiten bepalen — requirements engineering, gevormd door jaren in volwassenenonderwijs en consultancy."
+    },
+    "design": {
+      "title": "Design",
+      "text": "De user experience en visuele taal vormgeven voordat er een regel code staat — gebaseerd op de opleiding tot mediavormgever."
+    },
+    "build": {
+      "title": "Build",
+      "text": "Schone, onderhoudbare implementatie van frontend tot backend — met heldere architectuur in plaats van snelle oplossingen."
+    },
+    "ship": {
+      "title": "Ship & Iterate",
+      "text": "Agile oplevering in korte cycli, geversioneerd en gedocumenteerd — inclusief AVG-conforme processen uit de overheidssector."
+    }
+  }
+}
