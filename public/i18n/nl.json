@@ -97,6 +97,14 @@
     "focusValue": "UI/UX & Full-Stack-ontwikkeling"
   },
 
+  "contact": {
+    "label": "07 / CONTACT",
+    "title": "Laten we samen iets bouwen.",
+    "text": "Open voor freelance projecten, samenwerkingen of een gesprek over je volgende product. Neem direct contact op — ik reageer meestal binnen een dag.",
+    "emailLabel": "E-mail",
+    "locationLabel": "Locatie"
+  },
+
   "capabilities": {
     "label": "02 / VAARDIGHEDEN",
     "title": "Digitale ervaringen van frontend tot backend.",

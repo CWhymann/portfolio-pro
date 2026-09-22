@@ -97,6 +97,14 @@
     "focusValue": "Sviluppo UI/UX e Full-Stack"
   },
 
+  "contact": {
+    "label": "07 / CONTATTI",
+    "title": "Costruiamo qualcosa insieme.",
+    "text": "Disponibile per progetti freelance, collaborazioni o una conversazione sul tuo prossimo prodotto. Scrivimi direttamente — di solito rispondo entro un giorno.",
+    "emailLabel": "Email",
+    "locationLabel": "Sede"
+  },
+
   "capabilities": {
     "label": "02 / COMPETENZE",
     "title": "Esperienze digitali dal frontend al backend.",
