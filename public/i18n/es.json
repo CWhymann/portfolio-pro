@@ -84,6 +84,18 @@
     }
   },
 
+  "about": {
+    "label": "06 / SOBRE MÍ",
+    "title": "La persona detrás del código.",
+    "intro": "En la intersección entre el código limpio, la estética visual y la enseñanza ágil.",
+    "text": "Como diseñador gráfico certificado (IHK) y desarrollador de software, conecto arquitecturas backend funcionales con una experiencia de usuario frontend intuitiva. Años de práctica en educación de adultos y coaching son la base de una sólida comunicación con stakeholders, un análisis de requisitos estructurado y un liderazgo ágil de procesos.",
+    "factLocation": "Ubicación",
+    "factLanguages": "Idiomas",
+    "languagesValue": "Alemán (nativo), inglés (B2)",
+    "factFocus": "Enfoque",
+    "focusValue": "Desarrollo UI/UX y Full-Stack"
+  },
+
   "capabilities": {
     "label": "02 / CAPACIDADES",
     "title": "Creando experiencias digitales de frontend a backend.",

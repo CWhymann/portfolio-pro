@@ -85,6 +85,18 @@
     }
   },
 
+  "about": {
+    "label": "06 / CHI SONO",
+    "title": "La persona dietro il codice.",
+    "intro": "All'intersezione tra codice pulito, estetica visiva e didattica agile.",
+    "text": "In qualità di grafico pubblicitario certificato (IHK) e sviluppatore software, collego architetture backend funzionali con una user experience frontend intuitiva. Anni di pratica nella formazione degli adulti e nel coaching costituiscono la base per una solida comunicazione con gli stakeholder, un'analisi strutturata dei requisiti e una guida agile dei processi.",
+    "factLocation": "Sede",
+    "factLanguages": "Lingue",
+    "languagesValue": "Tedesco (madrelingua), inglese (B2)",
+    "factFocus": "Focus",
+    "focusValue": "Sviluppo UI/UX e Full-Stack"
+  },
+
   "capabilities": {
     "label": "02 / COMPETENZE",
     "title": "Esperienze digitali dal frontend al backend.",

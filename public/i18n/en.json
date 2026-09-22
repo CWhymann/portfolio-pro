@@ -85,6 +85,18 @@
     }
   },
 
+  "about": {
+    "label": "06 / ABOUT",
+    "title": "The person behind the code.",
+    "intro": "At the intersection of clean code, visual aesthetics and agile teaching.",
+    "text": "As a trained media designer (IHK) and software developer, I connect functional backend architecture with intuitive frontend UX. Years of practice in adult education and coaching form the foundation for strong stakeholder communication, structured requirements analysis and agile process leadership.",
+    "factLocation": "Location",
+    "factLanguages": "Languages",
+    "languagesValue": "German (native), English (B2)",
+    "factFocus": "Focus",
+    "focusValue": "UI/UX & Full-Stack Development"
+  },
+
   "capabilities": {
     "label": "02 / CAPABILITIES",
     "title": "Building digital experiences from frontend to backend.",

@@ -83,6 +83,18 @@
     }
   },
 
+  "about": {
+    "label": "06 / ÜBER MICH",
+    "title": "Der Mensch hinter dem Code.",
+    "intro": "An der Schnittstelle von Clean Code, visueller Ästhetik und agiler Didaktik.",
+    "text": "Als ausgebildeter Mediengestalter (IHK) und Softwareentwickler verbinde ich funktionale Backend-Architekturen mit einer intuitiven Frontend-User-Experience. Langjährige Praxiserfahrung in Erwachsenenbildung und Coaching bildet das Fundament für exzellente Stakeholder-Kommunikation, strukturierte Anforderungsanalyse und agile Prozesssteuerung.",
+    "factLocation": "Standort",
+    "factLanguages": "Sprachen",
+    "languagesValue": "Deutsch (Muttersprache), Englisch (B2)",
+    "factFocus": "Schwerpunkt",
+    "focusValue": "UI/UX & Full-Stack-Entwicklung"
+  },
+
   "capabilities": {
     "label": "02 / FÄHIGKEITEN",
     "title": "Digitale Erlebnisse von Frontend bis Backend.",

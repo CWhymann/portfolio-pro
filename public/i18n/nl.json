@@ -85,6 +85,18 @@
     }
   },
 
+  "about": {
+    "label": "06 / OVER MIJ",
+    "title": "De persoon achter de code.",
+    "intro": "Op het snijvlak van schone code, visuele esthetiek en agile didactiek.",
+    "text": "Als opgeleid mediavormgever (IHK) en softwareontwikkelaar verbind ik functionele backend-architectuur met een intuïtieve frontend-UX. Jarenlange praktijk in volwassenenonderwijs en coaching vormt de basis voor sterke stakeholdercommunicatie, gestructureerde requirementsanalyse en agile procesleiding.",
+    "factLocation": "Locatie",
+    "factLanguages": "Talen",
+    "languagesValue": "Duits (moedertaal), Engels (B2)",
+    "factFocus": "Focus",
+    "focusValue": "UI/UX & Full-Stack-ontwikkeling"
+  },
+
   "capabilities": {
     "label": "02 / VAARDIGHEDEN",
     "title": "Digitale ervaringen van frontend tot backend.",
