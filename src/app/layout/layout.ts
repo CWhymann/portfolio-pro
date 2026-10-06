@@ -34,6 +34,19 @@ export class Layout {
     this.langMenuOpen.set(false);
   }
 
+  async goTo(event: Event, id: string): Promise<void> {
+    event.preventDefault();
+    this.closeMenu();
+    await document.fonts.ready;
+    const target = id === 'top' ? null : document.getElementById(id);
+    if (target) {
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    } else {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+    history.replaceState(null, '', `#${id}`);
+  }
+
   toggleLangMenu(): void {
     this.langMenuOpen.update((open) => !open);
   }

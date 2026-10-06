@@ -1,6 +1,6 @@
 <header class="header">
   <div class="container">
-    <a class="header__logo" href="#top" (click)="closeMenu()">
+    <a class="header__logo" href="#top" (click)="goTo($event, 'top')">
       <img class="header__logo-img" src="img/favicon_final.png" alt="" />
       <span class="header__logo-text">CHRISTIAN WIEMANN</span>
     </a>
@@ -18,15 +18,23 @@
     </button>
 
     <nav class="header__nav" [class.header__nav--open]="menuOpen()" aria-label="Main navigation">
-      <a href="#profile" (click)="closeMenu()">{{ translation.translate('nav.profile') }}</a>
-      <a href="#capabilities" (click)="closeMenu()">{{
+      <a href="#profile" (click)="goTo($event, 'profile')">{{
+        translation.translate('nav.profile')
+      }}</a>
+      <a href="#capabilities" (click)="goTo($event, 'capabilities')">{{
         translation.translate('nav.capabilities')
       }}</a>
-      <a href="#work" (click)="closeMenu()">{{ translation.translate('nav.work') }}</a>
-      <a href="#system" (click)="closeMenu()">{{ translation.translate('nav.system') }}</a>
-      <a href="#journey" (click)="closeMenu()">{{ translation.translate('nav.journey') }}</a>
-      <a href="#about" (click)="closeMenu()">{{ translation.translate('nav.about') }}</a>
-      <a href="#contact" (click)="closeMenu()">{{ translation.translate('nav.contact') }}</a>
+      <a href="#work" (click)="goTo($event, 'work')">{{ translation.translate('nav.work') }}</a>
+      <a href="#system" (click)="goTo($event, 'system')">{{
+        translation.translate('nav.system')
+      }}</a>
+      <a href="#journey" (click)="goTo($event, 'journey')">{{
+        translation.translate('nav.journey')
+      }}</a>
+      <a href="#about" (click)="goTo($event, 'about')">{{ translation.translate('nav.about') }}</a>
+      <a href="#contact" (click)="goTo($event, 'contact')">{{
+        translation.translate('nav.contact')
+      }}</a>
 
       <div class="header__lang" [class.header__lang--open]="langMenuOpen()">
         <button
