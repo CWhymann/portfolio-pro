@@ -1,4 +1,5 @@
-import { Injectable, signal } from '@angular/core';
+import { Injectable, signal, Inject, PLATFORM_ID } from '@angular/core';
+import { DOCUMENT, isPlatformBrowser } from '@angular/common';
 import { HttpClient } from '@angular/common/http';
 
 export type Lang = 'en' | 'de' | 'es' | 'it' | 'nl';
@@ -18,7 +19,11 @@ export class Translation {
   private translations = signal<Record<string, unknown>>({});
   currentLang = signal<Lang>('en');
 
-  constructor(private http: HttpClient) {
+  constructor(
+    private http: HttpClient,
+    @Inject(DOCUMENT) private document: Document,
+    @Inject(PLATFORM_ID) private platformId: object,
+  ) {
     this.loadTranslations('en');
   }
 
@@ -26,6 +31,9 @@ export class Translation {
     if (lang === this.currentLang()) return;
     this.currentLang.set(lang);
     this.loadTranslations(lang);
+    if (isPlatformBrowser(this.platformId)) {
+      this.document.documentElement.lang = lang;
+    }
   }
 
   private loadTranslations(lang: Lang): void {
