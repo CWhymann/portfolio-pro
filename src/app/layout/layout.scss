@@ -5,8 +5,6 @@
   width: 100%;
   border-bottom: 1px solid var(--color-line);
   background: color-mix(in srgb, var(--color-bg) 85%, transparent);
-  backdrop-filter: blur(0.3rem);
-  -webkit-backdrop-filter: blur(0.3rem);
 
   .container {
     display: flex;
